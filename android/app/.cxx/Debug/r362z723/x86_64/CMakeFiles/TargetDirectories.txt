@@ -1,0 +1,2 @@
+D:/flutter project/flashcardquiz/android/app/.cxx/Debug/r362z723/x86_64/CMakeFiles/edit_cache.dir
+D:/flutter project/flashcardquiz/android/app/.cxx/Debug/r362z723/x86_64/CMakeFiles/rebuild_cache.dir
