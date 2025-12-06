@@ -2,17 +2,17 @@
 The Flashcard Quiz App allows users to create custom quizzes, attempt them, and track their performance. A built-in timer records how long the user takes to complete the quiz. At the end, users can see their marks, grade, and wrong answers.
 
 # Features
-1. Create Quiz
+1. Create Quiz:
 Users can create their own flashcard-based quizzes.
 Add question text, options, and correct answers.
-2. Attempt Quiz
+2. Attempt Quiz:
 When a user starts the quiz, the timer starts automatically.
 Timer records total time taken to complete the quiz.
 User answers each question at their own pace.
-3. Submit Quiz
+3. Submit Quiz:
 User submits the quiz whenever they finish.
 The final recorded time is shown in the result.
-4. View Results
+4. View Results:
 After submission, users can see:
 Time Taken to Solve the Quiz
 Total Marks Obtained
@@ -20,15 +20,15 @@ Grade
 Wrong Answers (question-wise details)
 
 # How It Works
-# Create Quiz:
+1. Create Quiz:
   User enters quiz title and adds questions with correct answers.
-# Start Quiz:
+2. Start Quiz:
   Timer begins the moment the quiz starts.
-# Solve Questions:
+3. Solve Questions:
   User attempts all questions at their own speed.
-# Submit:
+4. Submit:
   Timer stops when user submits the quiz.
-# Results Screen:
+5. Results Screen:
   Shows marks
   Shows grade
   Shows wrong answers
